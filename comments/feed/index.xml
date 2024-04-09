@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for Wendy	</title>
+	Comments for Wendy Dobrick	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Tue, 19 Mar 2024 06:01:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Apr 2024 05:15:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 </channel>
 </rss>

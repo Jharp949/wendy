@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>Wendy</title>
+	<title>Wendy Dobrick</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Tue, 22 Aug 2023 07:16:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Apr 2024 23:18:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>Demo Post 1</title>
 		<link>/post-1/</link>
@@ -31,7 +31,7 @@
 
 					<description><![CDATA[Engaging Introductions: Capturing Your Audience’s Interest The initial impression your blog post makes is crucial, and that’s where your introduction comes into play. Hook your readers with a captivating opening that sparks curiosity or emotion. Address their pain points or questions to establish a connection. Outline the purpose of your post and give a sneak [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h5 class="\&quot;wp-block-heading\&quot; wp-block-heading">Engaging Introductions: Capturing Your Audience’s Interest</h5>
+<h5 class="wp-block-heading">Engaging Introductions: Capturing Your Audience’s Interest</h5>
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-<h5 class="\&quot;wp-block-heading\&quot; wp-block-heading">Crafting Informative and Cohesive Body Content</h5>
+<h5 class="wp-block-heading">Crafting Informative and Cohesive Body Content</h5>
 
 
 
@@ -47,7 +47,7 @@
 
 
 
-<h5 class="\&quot;wp-block-heading\&quot; wp-block-heading">Powerful Closures: Leaving a Lasting Impression</h5>
+<h5 class="wp-block-heading">Powerful Closures: Leaving a Lasting Impression</h5>
 
 
 
@@ -71,7 +71,7 @@
 
 					<description><![CDATA[Engaging Introductions: Capturing Your Audience’s Interest The initial impression your blog post makes is crucial, and that’s where your introduction comes into play. Hook your readers with a captivating opening that sparks curiosity or emotion. Address their pain points or questions to establish a connection. Outline the purpose of your post and give a sneak [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h5 class="\&quot;wp-block-heading\&quot; wp-block-heading">Engaging Introductions: Capturing Your Audience’s Interest</h5>
+<h5 class="wp-block-heading">Engaging Introductions: Capturing Your Audience’s Interest</h5>
 
 
 
@@ -79,7 +79,7 @@
 
 
 
-<h5 class="\&quot;wp-block-heading\&quot; wp-block-heading">Crafting Informative and Cohesive Body Content</h5>
+<h5 class="wp-block-heading">Crafting Informative and Cohesive Body Content</h5>
 
 
 
@@ -87,7 +87,7 @@
 
 
 
-<h5 class="\&quot;wp-block-heading\&quot; wp-block-heading">Powerful Closures: Leaving a Lasting Impression</h5>
+<h5 class="wp-block-heading">Powerful Closures: Leaving a Lasting Impression</h5>
 
 
 
@@ -111,7 +111,7 @@
 
 					<description><![CDATA[Engaging Introductions: Capturing Your Audience’s Interest The initial impression your blog post makes is crucial, and that’s where your introduction comes into play. Hook your readers with a captivating opening that sparks curiosity or emotion. Address their pain points or questions to establish a connection. Outline the purpose of your post and give a sneak [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h5 class="\&quot;wp-block-heading\&quot; wp-block-heading">Engaging Introductions: Capturing Your Audience’s Interest</h5>
+<h5 class="wp-block-heading">Engaging Introductions: Capturing Your Audience’s Interest</h5>
 
 
 
@@ -119,7 +119,7 @@
 
 
 
-<h5 class="\&quot;wp-block-heading\&quot; wp-block-heading">Crafting Informative and Cohesive Body Content</h5>
+<h5 class="wp-block-heading">Crafting Informative and Cohesive Body Content</h5>
 
 
 
@@ -127,7 +127,7 @@
 
 
 
-<h5 class="\&quot;wp-block-heading\&quot; wp-block-heading">Powerful Closures: Leaving a Lasting Impression</h5>
+<h5 class="wp-block-heading">Powerful Closures: Leaving a Lasting Impression</h5>
 
 
 
